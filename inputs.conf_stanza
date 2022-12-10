@@ -1,0 +1,5 @@
+[monitor:///var/log/cisco_server/vendor_info]
+disabled = false
+host_segment = 3
+sourcetype = vendor
+index = sales
