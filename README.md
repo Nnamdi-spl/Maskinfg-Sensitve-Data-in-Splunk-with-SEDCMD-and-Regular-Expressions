@@ -1,1 +1,1 @@
-# Maskinfg-Sensitve-Data-in-Splunk-with-SEDCMD-and-Regular-Expressions
+# Masking-Sensitve-Data-in-Splunk-with-SEDCMD-and-Regular-Expressions
