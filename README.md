@@ -6,7 +6,7 @@ This is a simple standalone configuration to demostrate how SEDCMD is used to ma
 Masking is a term used to describe the ability to hide the actual data or a subset of data using modified content like characters or numbers.
 It is used to protect private or sensitive data by deleting or encrypting it.
 To achieve this, we will use a regex expression that captures the string we want to mask and a SEDCMD parameter set in props.conf to replace the 
-string with a different string while the raw data is being ingested into splunk.
+string with a different string while the raw data is being ingested into splunk.The sample data used in this demo is publicly available.
 
 
 
